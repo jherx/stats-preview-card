@@ -93,6 +93,7 @@ body {
 }
 .txt-slow {
   color: var(--Slightly-transparent-white-main-paragraph);
+  margin: 15px;
 }
 .row-txt {
   color: var(--Slightly-transparent-white-stat-headings);
