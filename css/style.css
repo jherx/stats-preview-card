@@ -54,7 +54,7 @@ body {
 }
 .content-img {
   min-width: 280px;
-  background-image: url(/images/image-header-mobile.jpg);
+  background-image: url(./images/image-header-mobile.jpg);
   border-radius: 15px 15px 0px 0px;
   background-position: center center;
   background-size: cover;
