@@ -84,13 +84,16 @@ body {
 .content-txt {
   margin-top: 30px;
   margin-left: 35px;
-  padding-bottom: 15px;
   text-align:left
+}
+.texto{
+  padding: 1.1vw 1vw;
 }
 .title {
   font-family: var(--font-deca);
   font-weight: 700;
-
+  
+  padding: 1.1vw 1.1vw 1vw;
 }
 
 .purple {
@@ -102,6 +105,7 @@ body {
 }
 .row-txt {
   color: var(--Slightly-transparent-white-stat-headings);
+  padding: 1vw 1vw 1.1vw 1vw;
 }
 
 /* Mediasquerys */
