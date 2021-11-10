@@ -82,10 +82,15 @@ body {
   color: var(--White-main-heading-stats);
 }
 .content-txt {
-  margin: 20px;
+  margin-top: 30px;
+  margin-left: 35px;
+  padding-bottom: 15px;
+  text-align:left
 }
 .title {
   font-family: var(--font-deca);
+  font-weight: 700;
+
 }
 
 .purple {
@@ -126,7 +131,7 @@ body {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr;
     justify-items: center;
-    max-width: 670px;
+    width: 75vw;
     margin: 50px auto;
   }
   .content-img {
@@ -141,6 +146,7 @@ body {
   }
   .row-txt{
     display: flex;
+    justify-content: space-evenly;
   }
 }
 
